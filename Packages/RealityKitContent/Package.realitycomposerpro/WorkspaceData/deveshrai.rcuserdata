@@ -1,0 +1,35 @@
+{
+  "advancedEditorSelectedIdentifier" : "ProjectBrowser",
+  "openSceneRelativePaths" : [
+    "Immersive.usda"
+  ],
+  "recentIdentifiers" : {
+
+  },
+  "sceneCameraHistory" : {
+    "AF09ED6F-1707-48FD-8720-65B998362C09" : [
+      {
+        "date" : 733713496.1632,
+        "title" : "Untitled",
+        "transform" : [
+          1,
+          0,
+          -0,
+          0,
+          -0,
+          0.86602485,
+          -0.500001,
+          0,
+          0,
+          0.500001,
+          0.86602485,
+          0,
+          0,
+          3.5752244,
+          4.075131,
+          1
+        ]
+      }
+    ]
+  }
+}
